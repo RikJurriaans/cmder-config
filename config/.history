@@ -1,0 +1,26 @@
+cd C:\Program Files (x86)\cmder
+git commit -m "first commit"
+git add --all
+git commit -m "first commit"
+git push
+git remote add cmder-config https://github.com/RikJurriaans/
+git push
+git remote add cmlder-config https://github.com/RikJurriaans/cmder-config.git
+git push
+git push cmder-config
+git remote add cmlder-config https://github.com/RikJurriaans/cmder-config.git
+git remote remove cmlder-config https://github.com/RikJurriaans/
+git remote remove cmlder-config
+git remote add cmlder-config https://github.com/RikJurriaans/cmder-config.git
+git push cmder-config
+git remove
+cd ../
+git clone https://github.com/RikJurriaans/cmder-config.git
+
+git clone https://github.com/RikJurriaans/cmder-config.git
+cd ../../
+cd Users/Rik
+dir
+cd Desktop\
+git clone https://github.com/RikJurriaans/cmder-config.git
+exit
