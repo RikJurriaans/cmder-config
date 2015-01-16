@@ -69,3 +69,9 @@ vim aliases
 cd ../
 commit "Aliasses added"
 exit
+fcmder
+commit "Aliasses added"
+cmder settings
+settings
+fcmder
+exit
