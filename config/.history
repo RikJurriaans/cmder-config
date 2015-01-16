@@ -81,3 +81,68 @@ exit
 @powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
 choco --version
 exit
+www
+fcmdr
+fcmder
+ssh
+d:
+cd Bro
+cd Brogramming\
+ls
+cd Haskell\
+ls
+mkdir Project
+ls Project\
+cd Project\
+git clone https://github.com/yogsototh/init-haskell-project.git
+ls
+cd init-haskell-project\
+ls
+cd ~
+cd /
+c:
+mkdir zsh
+ls zsh
+ls
+cd zsh
+gvim
+cd ../
+cd bin
+ls
+set PATH=%PATH%;C:\Users\Rik\bin
+PATH
+alias hsproject=holy-haskell.sh
+cd ../
+d:
+cd Brogramming\
+cd Haskell
+holy-haskell
+hsproject
+exit
+d;
+d:
+cd Haskell
+cd Brogramming\
+cd Haskell
+ls
+hsproject
+fcmderp
+cmderp
+c:
+cd config
+ls
+gim aliases
+vim aliases
+exit
+eixt
+exit
+path
+exho %PATH%
+echo %PATH%
+cd bin
+git clone git clone https://github.com/yogsototh/init-haskell-project.git
+git clone https://github.com/yogsototh/init-haskell-project.git
+set paht
+set path
+path
+exit
