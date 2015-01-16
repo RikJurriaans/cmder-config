@@ -24,3 +24,48 @@ dir
 cd Desktop\
 git clone https://github.com/RikJurriaans/cmder-config.git
 exit
+alias cmder=cd 
+alias cmder=cd C:\Program Files\cmder\
+cmder
+alias fcmder=cd C:\Program Files\cmder\
+fcmder
+alias fcmder=cd "C:\Program Files\cmder\"
+fcmder
+alias fcmder=cd "C:\Program Files\cmder\"
+fcmder
+alias ccmder=git commit -m
+alias commit=git commit -m $*
+commit "aliasses added, configured"
+alias add=git add --all
+add
+commit "aliasses added, cool config"
+alias wwwroot=cd "C:\Inetpub\wwwroot"
+alias www=cd "C:\Inetpub\wwwroot"
+www
+fcmder
+www
+ww
+wwww
+www
+cd ../
+fcmder
+commit "aliases"
+add
+commit "aliases"
+exit
+fcmder
+commit "aliasses"
+ls
+cd config
+ls
+vim aliases
+cd ../
+commit "Aliasses added"
+exit
+fcmder
+commit "Aliasses added"
+cd config
+vim aliases
+cd ../
+commit "Aliasses added"
+exit
