@@ -3,3 +3,7 @@ gl=git log --oneline --all --graph --decorate  $*
 ls=ls --color $*
 pwd=cd
 clear=cls
+fcmder=cd "C:\Program Files\cmder\" 
+ccmder=git commit -m 
+commit=git commit -m $* 
+add=git add --all 
