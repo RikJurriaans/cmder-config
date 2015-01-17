@@ -11,3 +11,5 @@ wwwl=cd "C:\Inetpub\wwwroot" $T C:
 cmderp=cd "C:\Program Files (x86)\cmder" $T C:
 cmderl=cd "C:\Program Files\cmder\" $T C:
 hsproject=holy-haskell.sh 
+build=cabal build 
+werk=cd d:\Werk\ 

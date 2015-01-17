@@ -146,3 +146,87 @@ set paht
 set path
 path
 exit
+holy-haskell
+holy-haskell.sh
+cd bin
+ls
+cd ../
+hsproject
+cmderp
+commit "Changed a few settings, added some things"
+git push
+cd ../
+cd c:/
+d:
+cd Brogramming\
+cd Haskell
+ls
+mkdir
+mkdir test
+cd test
+cabal init
+ls
+dir
+ex
+cabal sandbox init
+cabal install hoogle
+cd ../
+rm -r test
+ls
+exit
+cd C:\Users\Rik\Desktop\eric\eric-automaat 
+cabal build
+alias build=cabal build
+cmder
+vim
+gvim
+build
+cabal install filepath
+cabal repl
+build
+cmder
+build
+gvim
+build
+exit
+cd C:\Users\Rik\Desktop\eric\eric-automaat\dist\build\eric-automaat\
+gvim
+Setup
+ls
+eric-automaat
+exit
+cabal install hoogle
+exit
+ghc --version
+cabal --version
+ls --version
+cd Desktop\
+mkdir cabalinstall
+cd cabalinstall
+cabal sandbox init
+cabal install cabal-intall
+cabal install cabal-install
+exit
+wwwp
+cd Vriendschap\
+ls
+gvim
+alias werk=cd d:\Werk\
+werk
+ls
+cd projecten
+ls
+cd eric-automaat\
+ls
+cd eric-automaat\
+ls
+gvim
+cabal build
+alias
+gvim
+build
+gvim
+build
+exit
+exiut
+exit
