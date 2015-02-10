@@ -5,7 +5,7 @@ pwd=cd
 clear=cls
 
 aliases=cat "c:/Program Files (x86)\cmder\config\aliases"
-editaliases=cd "c:/Program\ Files\ (x86)\cmder\config\" $T gvim aliases
+editaliases=cd "c:/Program Files (x86)\cmder\config\" $T gvim aliases
 
 commit=git add --all $T git commit -m $* 
 add=git add --all
@@ -15,4 +15,4 @@ cmderp=cd "C:\Program Files (x86)\cmder" $T C:
 cmderl=cd "C:\Program Files\cmder\" $T C:
 build=cabal build 
 werk=cd d:\Werk\ 
-dev-server=cd d:/Brogramming/haskell-server $T D: $T vagrant up $T vagrant ssh
+dev-server=cd d:/Brogramming/haskell-server $T D: $T vagrant up $T gvim $T vagrant ssh

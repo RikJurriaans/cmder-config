@@ -663,3 +663,9 @@ cmderp
 cd config
 gvim aliases
 exit
+aliases
+cmderp
+git add --all
+git commit -m "added handy aliases"
+git push
+dev-server
