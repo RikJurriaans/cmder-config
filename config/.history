@@ -230,3 +230,436 @@ build
 exit
 exiut
 exit
+cmder
+cmderp
+commit "aliasses..."
+git push
+exit
+cd D:\Werk\Projecten\shoe-tracker\dist\build\shoe-tracker
+d:
+shoe-tracker
+exit
+werk
+work
+d:
+cd shoe
+cd Projecten\
+ls
+cd shoe
+cd shoe-tracker\
+ls
+cabal init
+sandbox
+cabal sandbox init
+cabal install skebaysdk
+cabal install hsebaysdk
+cabal install data-default-class-0.0.1
+cabal install hsebaysdk
+cabal install data-default-instances-base-0.0.1
+cabal install hsebaysdk
+ls
+gvim Setup.hs
+cabal build
+cmder
+build
+exit
+cd Desktop\
+cd Eindopdracht\
+ls
+gvim
+build
+cabal sandbox init
+cabal build
+ghc Main.hs
+Main
+exit
+cd Desktop\
+gvim
+gvim data-px.csv
+exit
+cd Desktop\
+ls
+cd Eindopdracht\
+gvim
+ghc 
+ghc Main
+Main
+cd Desktop\
+ls
+cd Eindopdracht\
+ghc Main
+Main
+gvim
+ghc Main
+Main
+ghc Main
+Main
+exit
+ghci
+www
+d:
+cd werk
+cd Por
+cd Projecten\
+ls
+mkdir
+mkdir test
+cd test
+exit
+www
+wwwl
+wwwp
+cd datavis
+cd Eindopdracht\
+ls
+gvim
+cd converter
+ghc Main
+Main
+ghc Main
+Main
+ghc Main
+Main
+ghc Main
+Main
+ghc Main
+Main
+ghc Main
+Main
+ghc Main
+Main
+gvim
+ghc Main
+Main
+ghc Main
+Main
+ghc Main
+Main
+ghc Main
+Main
+ghc Main
+Main
+exit
+curl --version
+exit
+DL
+dL
+d:
+cd Brogramming\
+cd haskell-box
+ls
+cat setup.hs
+touch setup.sh
+cat setup.sh
+culr -sl https://github.com/mietek/halcyon/raw/master/setup.sh 
+curl -sl https://github.com/mietek/halcyon/raw/master/setup.sh 
+curl -slhttps://github.com/mietek/halcyon/raw/master/setup.sh 
+source <( curl -sl https://github.com/mietek/halcyon/raw/master/setup.sh) 
+source <( curl -sl https://github.com/mietek/halcyon/raw/master/setup.sh ) 
+C:\Users\Rik\Desktop\setup.sh 
+sd C:\Users\Rik\Desktop\setup.sh 
+sh C:\Users\Rik\Desktop\setup.sh 
+which vim
+d:
+cd Brogramming\
+ls
+vagrant plugin install vagrant-digitalocean
+vagrant init server-haskell
+cd server-haskell
+vagrant up
+cd ../
+vagrant up
+cd server-haskell\
+vagrant init
+vagrant up
+gvim
+vagrant up
+vagrant up --provider=digital_ocean
+vagrant box add digital_ocean https://github.com/smdahlen/vagrant-digitalocean/raw/master/box/digital_ocean.box
+vagrant up 
+vagrant up --provider=digital_ocean
+vagrant up --provider=digitalocean
+vagrant up --provider=digital_ocean
+rm -r
+cd ../
+cd server-haskell\
+vagrant init digital_ocean
+vagrant up
+vagrant up --provider=digital_ocean
+vagrant plugin install vagrant-berkshelf
+cd ../
+cd yesod-quickstart-master\
+vagrant up
+cd ..
+mkdir test-server
+cd test-server\
+vagrant init ubuntu/trusty64 --provider virtualbox
+vagrant up ubuntu/trusty64 --provider virtualbox
+vagrant init ubuntu/trusty64 --provider virtualbox
+vagrant init ubuntu/trusty64 
+vagrant up ubuntu/trusty64 --provider virtualbox
+vagrant up
+vagrant ssh
+vagrant plugin uninstall Berkshelf
+vagrant plugin uninstall vagrant-berkshelf
+vagrant up
+vagrant ssh
+cd ../
+rm -r test-server\
+rm -r test-server
+ls
+rm -r server-haskell\
+ls
+mkdir vagrant-test
+cd vagrant-test\
+vagrant box add haskell-eval http://download.fpcomplete.com/haskell-eval-alpha-2013-01-29.box
+vagrant init haskell-eval
+vagrant up
+vagrant ssh
+cd ../
+rm -r vagrant-test\
+rm -r vagrant-test
+mkdir haskell-box
+cd haskell-box
+vagrant box add https://dl.dropboxusercontent.com/s/uba887a4jas6qqz/ubuntu1110x64.box
+vagrant box add haskell-box https://dl.dropboxusercontent.com/s/uba887a4jas6qqz/ubuntu1110x64.box
+vagrant init haskell-box
+vagrant up
+vagrant init haskell-box
+vagrant up
+vagrant ssh
+cd ../
+rm -r haskell-box
+vagrant init ubuntu/trusty64
+vagrant up
+vagrant up --provider=virtualbox
+vagrant ssh
+vagrant add box ubuntu/trusty64
+vagrant box add ubuntu/trusty64
+ls
+rm Vagrantfile 
+rm .vagrant\
+rm -r .vagrant
+ls
+mkdir haskell-box
+cd haskell-box\
+vagrant init ubuntu/trusty64
+vim Vagrantfile 
+vagrant up
+vboxmanage list runningvms
+vboxmanage controlvm test-server_default_1422470751673_2914 keyboardputscancode 1c
+vboxmanage list runningvms
+exit
+d:
+cd Bro
+cd Brogramming\
+cd haskell-box\
+rm ./
+rm *
+ls
+vagrant init hashicorp/precise64
+vagrant up
+rm *
+vagrant init hashicorp/precise32
+vagrant up
+vagrant ssh
+exit
+vagrant halt
+d:
+cd Brogramming\
+vagrant halt
+VBoxManage list runningvms
+VBoxManage controlvm "haskell-box_default_1422483921895_81805" {5427ea19-f2a9-4fec-96ac-d13c065915f1} powerof
+VBoxManage controlvm "haskell-box_default_1422483921895_81805"{5427ea19-f2a9-4fec-96ac-d13c065915f1} powerof
+VBoxManage controlvm {5427ea19-f2a9-4fec-96ac-d13c065915f1} powerof
+VBoxManage controlvm {5427ea19-f2a9-4fec-96ac-d13c065915f1} poweroff
+cd haskell-box\
+ls
+vagrant init hashicorp/precise64
+vagrant up
+exit
+vboxmanage list runningvms
+vbosmanage startvm
+vboxmanage startvm
+VBoxManage startvm {5427ea19-f2a9-4fec-96ac-d13c065915f1}
+d:
+cd Brogramming\
+mkdir yesod-app
+cd yesod-app
+vagrant init hashicorp/precise32
+vagrant up
+VBoxManage startvm yesod-app_default_1422485583533_36208
+vboxmanage list runningvms
+VBoxManage controlvm {6af4d697-809e-45fd-8b9b-bfd2a6c12ca9} poweroff
+VBoxManage startvm {6af4d697-809e-45fd-8b9b-bfd2a6c12ca9}
+VBoxManage controlvm {6af4d697-809e-45fd-8b9b-bfd2a6c12ca9} poweroff
+vboxmanage list runningvms
+vagrant up
+vagrant ssh
+vagrant down
+vagrant destroy
+vboxmanage list runningvms
+exit
+d:
+cd Brogramming\
+cd yesod-app\
+vagrant init hashicorp/precise32
+vagrant up
+vagrant ssh
+vagrant destroy
+exit
+d:
+cd Brogramming\
+ls
+cd yesod-app
+ls
+rm Vagrantfile 
+rm .vagrant\
+rm -r .vagrant\
+ls
+vagrant init ubuntu/trusty32
+vagrant up
+vagrant ssh
+vagrant destroy
+vagrant up
+vagrant ssh
+vagrant up
+vagrant ssh
+vagrant destroy
+vagrant up
+vagrant destroy
+vagrant up
+vagrant ssh
+vagrant destroy
+vagrant up
+vagrant ssh
+vagrant destroy
+vagrant up
+vagrant ssh
+vagrant destroy
+vagrant up
+vagrant ssh
+exit
+d:
+cd Brogramming\
+ls
+cd yesod-app
+ls
+vagrant ssh
+vagrant up
+exit
+d:
+cd Brogramming\
+ls
+cd yesod-
+cd yesod-app
+ls
+vagrant destroy
+vagrant up
+vagrant ssh
+exit
+d:
+cd Brogramming\
+ls
+cd yesod-app
+ls
+cd project\
+cd ../
+vagrant ssh
+cd ../
+git clone https://github.com/JanAhrens/yesod-quickstart.git
+rm -r yesod-quickstart\
+git clone https://github.com/JanAhrens/yesod-quickstart.git
+cd yesod-quickstart\
+vagrant up
+cd ../
+cd yesod-app\
+ls
+cd project\
+gvim
+cd ../
+vagrant ssh
+exit
+d:
+cd brogramming
+cd yesod-app\
+ls
+vagrant ssh
+exit
+d:
+cd brogramming
+ls
+cd yesod-app
+vagrant up
+vagrant ssh
+ls
+cd ../
+cd haskell-server
+mkdir favporn
+cd favporn\
+ls
+mkdir browser-plugin
+ls
+mkdir www
+ls
+cd browser-plugin\
+ls
+gvim
+exit
+d:
+cd brogramming
+pcmder
+cmder
+fcmder
+alias
+aliasses
+c:
+cd /
+cd "Program Files"
+ls
+cd cmder
+cd ../
+cd "Program Files (x86)\:
+cd "Program Files (x86)\
+cd cmder
+ls
+cd config
+gvim
+exit
+haskell-server
+haskellserver
+server
+cmderp
+cd config
+gvim aliases
+dev-server
+exit
+dev-server
+exit
+dev-server
+exit
+cabal install hdevtools
+ghc-mod
+cabal install ghc-mod
+hoogle
+hoogle data
+cabal install ghc-mod
+cabal install hdevtools
+exit
+hs-server
+cmderp
+cd config
+gvim aliases
+cat aliasses
+cat aliases
+commit
+aliasses
+aliases
+exit
+aliases
+aliasses
+cmderl
+cmderp
+cd config
+gvim aliases
+exit
